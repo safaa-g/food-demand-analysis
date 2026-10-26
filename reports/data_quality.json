@@ -1,0 +1,19 @@
+{
+  "train_rows": 456548,
+  "test_rows": 32573,
+  "train_missing_values": 0,
+  "test_missing_values": 0,
+  "train_duplicate_ids": 0,
+  "test_duplicate_ids": 0,
+  "train_week_range": [
+    1,
+    145
+  ],
+  "test_week_range": [
+    146,
+    155
+  ],
+  "center_count": 77,
+  "meal_count": 51,
+  "cleaning_policy": "No rows were dropped or imputed. Required keys and references were validated; lookup tables were joined many-to-one."
+}

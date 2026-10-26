@@ -1,0 +1,3 @@
+model,validation_mae,validation_rmse
+RandomForestRegressor,75.14887184258643,120.35713681982476
+LinearRegression,124.89081669116746,187.51167941261957

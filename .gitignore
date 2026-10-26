@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+data/processed/*.csv
+/train.csv
+/test.csv
+/meal_info.csv
+/fulfilment_center_info.csv
+/المشروع النهائي (1).pdf

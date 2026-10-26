@@ -1,0 +1,3 @@
+feature,n_without_promotion,n_with_promotion,median_orders_without,median_orders_with,mann_whitney_u,p_value
+emailer_for_promotion,419498,37050,123.0,338.0,11250990192.5,0.0
+homepage_featured,406693,49855,123.0,350.0,14506812341.0,0.0
